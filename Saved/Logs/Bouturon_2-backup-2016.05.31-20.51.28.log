@@ -1,0 +1,57 @@
+﻿Log file open, 05/31/16 12:49:29
+LogInit:Display: Running engine for game: Bouturon
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(2122822302) SRandInit(2122822304).
+LogTaskGraph: Started task graph with 4 named threads and 7 total threads.
+LogStats: Stats thread started at 0.059304
+LogInit: Version: 4.11.2-2946394+++UE4+Release-4.11
+LogInit: API Version: 2927265
+LogInit: Compiled (64-bit): Apr 18 2016 02:18:46
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.11
+LogInit: Command line:  /Temp/Autosaves/Game/ThirdPersonBP/Maps/UEDPCThirdPersonExampleMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -featureleveles2 -faketouches 
+LogInit: Base directory: O:/Program Files/Epic Games/4.11/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Using libcurl 7.41.0
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.05.31-16.49.29:391][  0]LogInit: Selected Device Profile: [Windows]
+[2016.05.31-16.49.29:391][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.05.31-16.49.29:393][  0]LogInit: Computer: OZCAR
+[2016.05.31-16.49.29:393][  0]LogInit: User: OscarRomero
+[2016.05.31-16.49.29:393][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.05.31-16.49.29:393][  0]LogInit: High frequency timer resolution =3.421867 MHz
+[2016.05.31-16.49.29:393][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.05.31-16.49.29:393][  0]LogMemory: Platform Memory Stats for Windows
+[2016.05.31-16.49.29:393][  0]LogMemory: Process Physical Memory: 312.08 MB used, 312.08 MB peak
+[2016.05.31-16.49.29:393][  0]LogMemory: Process Virtual Memory: 315.68 MB used, 315.68 MB peak
+[2016.05.31-16.49.29:393][  0]LogMemory: Physical Memory: 6126.62 MB used, 16299.50 MB total
+[2016.05.31-16.49.29:393][  0]LogMemory: Virtual Memory: 652.55 MB used, 134217728.00 MB total
+[2016.05.31-16.49.29:417][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.05.31-16.49.29:661][  0]LogD3D11RHI: D3D11 adapters:
+[2016.05.31-16.49.29:677][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2016.05.31-16.49.29:677][  0]LogD3D11RHI:       6047MB of dedicated video memory, 0MB of dedicated system memory, and 8149MB of shared system memory, 1 output[s]
+[2016.05.31-16.49.29:678][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.05.31-16.49.29:678][  0]LogD3D11RHI:       0MB of dedicated video memory, 0MB of dedicated system memory, and 8149MB of shared system memory, 0 output[s]
+[2016.05.31-16.49.29:678][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.05.31-16.49.29:681][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.05.31-16.49.29:681][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2016.05.31-16.49.29:681][  0]LogD3D11RHI:   Driver Version: Unknown (internal Unknown)
+[2016.05.31-16.49.29:681][  0]LogD3D11RHI:      Driver Date: Unknown
+[2016.05.31-16.49.29:681][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.05.31-16.49.29:692][  0]LogD3D11RHI: Async texture creation enabled
+[2016.05.31-1
